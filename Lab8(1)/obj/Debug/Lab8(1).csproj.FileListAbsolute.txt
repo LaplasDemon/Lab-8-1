@@ -1,0 +1,14 @@
+E:\Arbeit\Lab8(1)\Lab8(1)\bin\Debug\Lab8(1).exe.config
+E:\Arbeit\Lab8(1)\Lab8(1)\bin\Debug\Lab8(1).exe
+E:\Arbeit\Lab8(1)\Lab8(1)\bin\Debug\Lab8(1).pdb
+E:\Arbeit\Lab8(1)\Lab8(1)\obj\Debug\Lab8(1).csprojAssemblyReference.cache
+E:\Arbeit\Lab8(1)\Lab8(1)\obj\Debug\Lab8(1).csproj.CoreCompileInputs.cache
+E:\Arbeit\Lab8(1)\Lab8(1)\obj\Debug\Lab8(1).exe
+E:\Arbeit\Lab8(1)\Lab8(1)\obj\Debug\Lab8(1).pdb
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\bin\Debug\Lab8(1).exe.config
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\bin\Debug\Lab8(1).exe
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\bin\Debug\Lab8(1).pdb
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\obj\Debug\Lab8(1).csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\obj\Debug\Lab8(1).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\obj\Debug\Lab8(1).exe
+C:\Users\user\source\repos\ConsoleApp8.1\Lab8(1)\obj\Debug\Lab8(1).pdb
